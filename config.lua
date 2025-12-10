@@ -150,17 +150,17 @@ Config.Hospitals = {
 		},
 		garage = {
 			['ems_garage_1'] = {
-				pedPos = vector4(291.2237, -614.9087, 42.4234, 332.9413),
+				pedPos = vector4(-419.55, -350.8, 24.23, 108.0),
 				model = 'mp_m_weapexp_01',
-				spawn = vector4(294.28, -608.32, 43.32, 69.6),
-				deposit = vector3(294.28, -608.32, 43.32),
+				spawn = vector4(-474.91, -392.85, 24.14, 15.38),
+				deposit = vector3(-481.67, -395.93, 24.1),
 				driverSpawnCoords = vector3(297.56, -600.52, 43.32),
 
 				vehicles = {
 					{
 						label = 'Ambulance',
 						spawn_code = 'ambulance',
-						min_grade = 3,
+						min_grade = 1,
 						modifications = {} -- es. {color1 = {255, 12, 25}}
 					},
 				}
