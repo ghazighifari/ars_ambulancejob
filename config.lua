@@ -79,7 +79,7 @@ Config.Hospitals = {
 		},
 		blip = {
 			enable = true,
-			name = 'Phillbox Hospital',
+			name = 'Mount Zonah Hospital',
 			type = 61,
 			scale = 1.0,
 			color = 2,
