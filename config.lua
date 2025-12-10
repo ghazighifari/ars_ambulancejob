@@ -144,7 +144,7 @@ Config.Hospitals = {
 					pos = vector3(303.84, -597.6, 43.28),
 				},
 				items = {
-					{ name = 'bandage', price = 10 },
+					{ name = 'bandage', price = 2000 },
 				}
 			},
 		},
