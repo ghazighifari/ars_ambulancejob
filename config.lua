@@ -61,7 +61,7 @@ Config.DeathAnimations         = {
 
 
 Config.Hospitals = {
-	["phillbox"] = {
+	["rsmtzonah"] = {
 		paramedic = {
 			model = "s_m_m_scientist_01",
 			pos = vector4(312.0927, -596.1016, 42.2918, 338.7213),
