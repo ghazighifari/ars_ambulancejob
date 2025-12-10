@@ -1,6 +1,6 @@
 local Config = {}
 
-Config.debug = false
+Config.debug = true
 
 Config.useOxInventory = GetResourceState('ox_inventory'):find('start')
 
